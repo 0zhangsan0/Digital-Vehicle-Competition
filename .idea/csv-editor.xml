@@ -612,13 +612,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\a.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\chargeSet\LFPHC7PE0K1A07972_charge.csv">
           <value>
             <Attribute>
@@ -627,13 +620,6 @@
           </value>
         </entry>
         <entry key="\dataSet\LFPHC7PE0K1A07972.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\totalConditionOfChargePartial.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
